@@ -1,89 +1,23 @@
-## Hi there ?, I'm **Abisheik**
-![Typing
-Animation](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Content+Creator;We
-b+Designer;Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=00b
-cd4&vCenter=true&size=22)
-Working at **RentInTbilisi**
-<img align="right"
-src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"
-alt="Coding Gif" width="300" height="250" />
-? Passionate about **Full-Stack Development**
-? Skilled at creating robust, scalable applications
-? Constantly exploring cutting-edge technologies
----
-### ??? About Me
-- ? **Currently Learning**: Advanced Web Development and Next.js
-- ? **Collaboration Goals**: Building innovative and impactful projects
-- ? **Ask Me About**: Web Development, Full-Stack Development, and Dev Tools
-- ? **Fun Fact**: I love experimenting with frameworks and designing workflows
----
-### ? Connect with Me
-<p align="left">
-<a href="https://instagram.com/codebyabi" target="_blank">
-<img
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&lo
-goColor=white" alt="Instagram" />
-</a>
-<a href="https://www.youtube.com/@codebyabi" target="_blank">
-<img
-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoCo
-lor=white" alt="YouTube" />
-</a>
-
-<a href="https://www.linkedin.com/in/abisheik-r-ba932b274/" target="_blank">
-<img
-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoCo
-lor=white" alt="LinkedIn" />
-</a>
-</p>
----
-### ? Skills
-#### **Languages & Frameworks**
-<p align="left">
-<img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"
-title="HTML" />
-<img height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"
-title="CSS" />
-<img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"
-alt="JavaScript" title="JavaScript" />
-<img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"
-alt="Bootstrap" title="Bootstrap" />
-<img height="40" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind
-CSS" title="Tailwind CSS" />
-<img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"
-title="Node.js" />
-<img height="40" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"
-title="Express.js" />
-<img height="40" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"
-title="Next.js" />
-<img height="40" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"
-title="GitHub" />
-</p>
----
-### ?? Tools I Use
-- **Editor:** Visual Studio Code
-- **Libraries & Frameworks:** Material UI, Ant Design, Tailwind, Prisma, npm
-- **Workspace Setup:**
-- Laptop: **Lenovo IdeaPad Slim 3**
-- Processor: **AMD Ryzen 5 4600U**
-- Graphics: **Integrated Radeon Graphics**
-- RAM: **8GB**
----
-### ? GitHub Stats
-<p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api?username=Abi-de-jo&show_icons=true&theme
-=radical" alt="Abisheik's GitHub stats" />
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-de-jo&layout=com
-pact&theme=radical" alt="Top Languages" />
-
-</p>
----
-### ? Activity Graph
-[![Abisheik's GitHub Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abi-de-jo&bg_color
-=0d1117&color=79fe96&line=7dd3fc&point=f5a623&area=true&hide_border=true)](https://githu
-b.com/ashutosh00710/github-readme-activity-graph)
----
-? *"Striving to make the web a better place, one project at a time!"*
+<h1>Hi 👋, I'm Rajesh</h1>
+<p>A passionate Fullstack developer from </p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/rajesh-j-5137702bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajesh&show_icons=true&locale=en" alt="Rajesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh&" alt="Rajesh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajesh&show_icons=true&locale=en&layout=compact" alt="Rajesh" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rajesh" alt="Rajesh" /></a></p>
