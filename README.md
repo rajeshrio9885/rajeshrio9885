@@ -1,8 +1,6 @@
 # 💫 About Me:
 I am a Full Stack Developer with professional experience in the MERN stack, specializing in building scalable, secure, and user-friendly web applications.
 
-In my current role, I work extensively with React, Node.js, Express, and MongoDB, developing end-to-end features such as RESTful APIs, authentication and authorization (JWT & email OTP), database design, and responsive UI components. I have hands-on experience building real-world applications, including a Twitter-like social media platform with secure user authentication.
-
 Alongside my MERN experience, I also have strong working knowledge of the Java full-stack ecosystem, including Core Java, Spring Boot, REST APIs, and SQL, gained through structured training and project-based learning. This allows me to understand backend architecture concepts across different technology stacks.
 
 Before transitioning into software development, I worked as a Relationship Manager at City Union Bank, where I developed strong analytical, problem-solving, and client-handling skills that now support my approach to software development.
