@@ -1,6 +1,13 @@
 # 💫 About Me:
-I'm Rajesh J, a passionate web developer. My journey began in the banking sector, where I worked as a Relationship Manager in City Union Bank, Bangalore.<br><br>My passion for the technology led me to transition into web development, where I gained expertise in HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, Java and more.<br><br>I'm eager to contribute my diverse skill set and enthusiasm to dynamic teams in the tech industry.
+I am a Full Stack Developer with professional experience in the MERN stack, specializing in building scalable, secure, and user-friendly web applications.
 
+In my current role, I work extensively with React, Node.js, Express, and MongoDB, developing end-to-end features such as RESTful APIs, authentication and authorization (JWT & email OTP), database design, and responsive UI components. I have hands-on experience building real-world applications, including a Twitter-like social media platform with secure user authentication.
+
+Alongside my MERN experience, I also have strong working knowledge of the Java full-stack ecosystem, including Core Java, Spring Boot, REST APIs, and SQL, gained through structured training and project-based learning. This allows me to understand backend architecture concepts across different technology stacks.
+
+Before transitioning into software development, I worked as a Relationship Manager at City Union Bank, where I developed strong analytical, problem-solving, and client-handling skills that now support my approach to software development.
+
+I am passionate about writing clean code, designing scalable systems, and continuously upgrading my skills in modern web technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ur_rio_is_here?igsh=eWZpNzc2OXoxOXFn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajesh-j-5137702bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
